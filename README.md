@@ -1,2 +1,2 @@
-## git初体验
+## Android learning and practice for git
 
